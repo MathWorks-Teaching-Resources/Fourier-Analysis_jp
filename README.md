@@ -4,6 +4,14 @@
 # <span style="color:rgb(213,80,0)">フーリエ解析</span>
 <a id="H_053613DF"></a>
 
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/182739?s_tid=prof_contriblnk) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Fourier-Analysis_jp&project=fourier-analysis.prj&file=README.mlx)
+
+[![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMathWorks-Teaching-Resources%2FFourier-Analysis_jp%2Frelease%2FImages%2FTestedWith.json)](https://MathWorks-Teaching-Resources.github.io/Fourier-Analysis_jp)
+
+**Curriculum Module**
+
+_Created with R2021b. Compatible with R2024a and later releases._
+
 # 情報
 
 このカリキュラムモジュールには、フーリエ解析の基本概念を教えるインタラクティブな[MATLAB® ライブスクリプト](https://www.mathworks.com/products/matlab/live-editor.html)と[MATLAB® アプリ](https://www.mathworks.com/products/matlab/app-designer.html)が含まれています。
@@ -16,6 +24,8 @@
 
 
 ライブスクリプト内の指示により、演習や実際の操作の手順を案内します。各ライブスクリプトは、セクションごとに実行しながら始めてください。スクリプトやセクションの実行を途中で停止したい場合（例：アニメーションが進行中の場合）、MATLABツールストリップの**ライブエディター**タブ内の**実行**セクションにある<img src="./Images/image_0.png" width="19" alt="image_0.png">停止ボタンを使用してください。
+
+このモジュールは英語から自動翻訳されています。
 
 ## お問い合わせ
 

@@ -6,8 +6,7 @@
 
 [![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/182739?s_tid=prof_contriblnk) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Fourier-Analysis_jp&project=fourier-analysis.prj&file=README.mlx)
 
-https://img.shields.io/endpoint?url=https://mathworks-teaching-resources.github.io/Fluid-Mechanics/TestedWith.json
-[![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMathWorks-Teaching-Resources%2FFourier-Analysis_jp%2Frelease%2FImages%2FTestedWith.json)](https://MathWorks-Teaching-Resources.github.io/Fourier-Analysis_jp)
+[![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https://mathworks-teaching-resources.github.io/Fourier-Analysis_jp/TestedWith.json)](https://MathWorks-Teaching-Resources.github.io/Fourier-Analysis_jp)
 
 **Curriculum Module**
 
